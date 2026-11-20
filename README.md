@@ -102,17 +102,17 @@ Choose your regional node matrix below:
 ## 06 :: EMPIRICAL EVIDENCE & BENCHMARKS
 
 * **Empirical Benchmarks Matrix:** A comprehensive laboratory comparing Logical Brutalism (Server-Driven UI) against Virtual DOM SPAs (React, Ant Design, Material) under high-frequency B2B stress.
-* 📊 **Live Data & Dashboard:** [matheuslacerda.dev/logical-benchs](https://www.google.com/search?q=https://matheuslacerda.dev/logical-benchs/)
-* 🔬 **Benchmark Repository:** [logical-brutalism-benchmarks](https://www.google.com/search?q=https://github.com/matheuslacerda-dev/logical-brutalism-benchmarks)
+* 📊 **Live Data & Dashboard:** [matheuslacerda.dev/logical-benchs](https://logicalbrutalism.matheuslacerda.dev/benchmarks/)
+* 🔬 **Benchmark Repository:** [logical-brutalism-benchmarks](https://github.com/Logical-Brutalism-LTDA/logical-brutalism-benchmarks)
 
 ---
 
 ## 07 :: OFFICIAL ECOSYSTEM
 
-* 📖 **Documentation:** [matheuslacerda.dev/logical-brutalism](https://www.google.com/search?q=https://matheuslacerda.dev/logical-brutalism/)
-* ⚙️ **Core Engine Repo:** [matheuslacerda-dev/logical-brutalism](https://github.com/matheuslacerda-dev/logical-brutalism/)
-* 📦 **PyPI Package:** [pypi.org/project/logical-brutalism](https://www.google.com/search?q=https://pypi.org/project/logical-brutalism/)
-* 📦 **NPM Package:** [npmjs.com/package/logical-brutalism](https://www.google.com/search?q=https://www.npmjs.com/package/logical-brutalism)
+* 📖 **Documentation:** [matheuslacerda.dev/logical-brutalism](https://logicalbrutalism.matheuslacerda.dev/)
+* ⚙️ **Core Engine Repo:** [matheuslacerda-dev/logical-brutalism](https://github.com/Logical-Brutalism-LTDA/logical-brutalism/)
+* 📦 **PyPI Package:** [pypi.org/project/logical-brutalism](https://pypi.org/project/logical-brutalism/)
+* 📦 **NPM Package:** [npmjs.com/package/logical-brutalism](https://www.npmjs.com/package/logical-brutalism)
 
 ---
 
